@@ -1,2 +1,2 @@
-# Računalniški praktikum
+# Računalniški praktikum 🍕
 Repozatorij za Računalniški praktikum
